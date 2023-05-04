@@ -93,6 +93,7 @@ public class TicTacToe extends JFrame {
             } else {
                 makeMove(button);
                 checkBoardState();
+                
             }
         });
 
